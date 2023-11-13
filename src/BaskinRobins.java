@@ -14,7 +14,7 @@ public class BaskinRobins {
         if (!map.containsKey(num)) {
             map.put(num, findCombinations(num - 1) + findCombinations(num - 2));
         }
-        // return the current recursive call after placing it in the map
+        // return the current recursive call from the map
         return map.get(num);
     }
 
