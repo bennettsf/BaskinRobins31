@@ -1,5 +1,5 @@
 # BaskinRobins31
-Using optimized recursion (memoization) to solve a number game.
+Using optimized recursion (memoization) to solve the number game Baskin Robins 31.
 
 ## Game Rules:
 - Players sit in a circle and take turns.
